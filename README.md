@@ -1,12 +1,5 @@
-Total Time: 1,510 hrs 32 mins
+My name is Nicolás Jorge, an enthusiast dedicated to web development who is currently pursuing a Bachelor's degree in Computer Science at FAMAF (UNC). I've been creating software since I was sixteen years old, focusing on creating efficient, visually engaging digital experiences that significantly improve user interaction.
 
-TypeScript                 762 hrs 22 mins ████████████▓░░░░░░░░░░░░   50.47 %
-JavaScript                 171 hrs 29 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
-Python                     115 hrs 43 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-CSS                        64 hrs 1 min    █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-JSON                       55 hrs 48 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-Markdown                   41 hrs 24 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-Rust                       37 hrs 27 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-HTML                       34 hrs 27 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-C                          33 hrs 3 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-Go                         31 hrs 21 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+I have experience developing access control systems and web applications for Socio Plus, where I continue to contribute. Additionally, I am currently working on my own project: a web platform designed to streamline and manage manufacturing processes.
+
+I thrive in team environments and enjoy collaborating with others to achieve outstanding results. I am always eager to learn and take on new challenges, continually seeking to expand my skills.
